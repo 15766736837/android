@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/MaterialDesignDemo.iml" filepath="$PROJECT_DIR$/MaterialDesignDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/activityoptionscompatdemo/activityoptionscompatdemo.iml" filepath="$PROJECT_DIR$/activityoptionscompatdemo/activityoptionscompatdemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/begindelayedtransitiondemo/begindelayedtransitiondemo.iml" filepath="$PROJECT_DIR$/begindelayedtransitiondemo/begindelayedtransitiondemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/behaviordemo/behaviordemo.iml" filepath="$PROJECT_DIR$/behaviordemo/behaviordemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/coordinatorlayoutdemo/coordinatorlayoutdemo.iml" filepath="$PROJECT_DIR$/coordinatorlayoutdemo/coordinatorlayoutdemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exploderecyclerviewdemo/exploderecyclerviewdemo.iml" filepath="$PROJECT_DIR$/exploderecyclerviewdemo/exploderecyclerviewdemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/floatactionbutton/floatactionbutton.iml" filepath="$PROJECT_DIR$/floatactionbutton/floatactionbutton.iml" />
+      <module fileurl="file://$PROJECT_DIR$/nestedscrollviewdemo/nestedscrollviewdemo.iml" filepath="$PROJECT_DIR$/nestedscrollviewdemo/nestedscrollviewdemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/palettedemo/palettedemo.iml" filepath="$PROJECT_DIR$/palettedemo/palettedemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rippledemo/rippledemo.iml" filepath="$PROJECT_DIR$/rippledemo/rippledemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/scenedemo/scenedemo.iml" filepath="$PROJECT_DIR$/scenedemo/scenedemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/snackbardemo/snackbardemo.iml" filepath="$PROJECT_DIR$/snackbardemo/snackbardemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/textinputlayout/textinputlayout.iml" filepath="$PROJECT_DIR$/textinputlayout/textinputlayout.iml" />
+      <module fileurl="file://$PROJECT_DIR$/transitionandactivity/transitionandactivity.iml" filepath="$PROJECT_DIR$/transitionandactivity/transitionandactivity.iml" />
+    </modules>
+  </component>
+</project>

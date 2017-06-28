@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="distributionType" value="LOCAL" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="gradleHome" value="D:\developmentSoftware\android-studio-bundle-2.2\AndroidStudio\gradle\gradle-2.14.1" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/activityoptionscompatdemo" />
+            <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/begindelayedtransitiondemo" />
+            <option value="$PROJECT_DIR$/behaviordemo" />
+            <option value="$PROJECT_DIR$/coordinatorlayoutdemo" />
+            <option value="$PROJECT_DIR$/exploderecyclerviewdemo" />
+            <option value="$PROJECT_DIR$/floatactionbutton" />
+            <option value="$PROJECT_DIR$/nestedscrollviewdemo" />
+            <option value="$PROJECT_DIR$/palettedemo" />
+            <option value="$PROJECT_DIR$/rippledemo" />
+            <option value="$PROJECT_DIR$/scenedemo" />
+            <option value="$PROJECT_DIR$/snackbardemo" />
+            <option value="$PROJECT_DIR$/textinputlayout" />
+            <option value="$PROJECT_DIR$/transitionandactivity" />
+          </set>
+        </option>
+        <option name="resolveModulePerSourceSet" value="false" />
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

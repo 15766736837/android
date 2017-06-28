@@ -1,0 +1,1 @@
+include ':app', ':textinputlayout', ':nestedscrollviewdemo', ':floatactionbutton', ':snackbardemo', ':coordinatorlayoutdemo', ':behaviordemo', ':palettedemo', ':activityoptionscompatdemo', ':scenedemo', ':begindelayedtransitiondemo', ':exploderecyclerviewdemo', ':transitionandactivity', ':rippledemo'
